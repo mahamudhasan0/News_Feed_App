@@ -1,16 +1,2 @@
-# p
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ss1](https://github.com/mahamudhasan0/News_Feed_App/assets/72403684/3aeae488-63bc-4178-90da-0cecc779a5c5)
+![ss2](https://github.com/mahamudhasan0/News_Feed_App/assets/72403684/12195f80-c97c-46f6-9f35-ef974f1e8e58)
